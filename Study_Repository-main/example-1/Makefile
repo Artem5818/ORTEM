@@ -13,3 +13,4 @@ hello: hello.cpp
 
 clean:
 	rm -rf hello hello-dbg
+ 
